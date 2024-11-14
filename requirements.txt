@@ -1,0 +1,7 @@
+tqdm
+pyfiglet
+requests
+pyqrcode
+python-barcode
+phonenumbers
+tabulate
